@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         // Check if the mobile number field is wrong
 
-        if (mobileNumberInput.value !== "7011018142") {
+        if (mobileNumberInput.value !== "9818393882") {
 
             alert("mobile no. not registered With this passid .\nPlease try again");
 
@@ -126,12 +126,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-        window.location.href = "pass.html";
+        window.location.href = 'main.html';
 
     });
 
 
 
 });
-
 
